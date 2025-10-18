@@ -1,0 +1,49 @@
+# 📞 Agenda Telefónica (Python)
+
+Una aplicación de consola que permite **gestionar contactos telefónicos** mediante operaciones CRUD (Crear, Leer, Actualizar y Eliminar).
+
+---
+
+## 🚀 Tecnologías utilizadas
+
+- **Python 3**
+- **Programación Orientada a Objetos (POO)**
+- **Estructuras de datos (listas, diccionarios)**
+- **Control de flujo**
+- **Persistencia de datos con JSON**
+
+---
+
+## ⚙️ Funcionalidades
+
+✅ Agregar contacto
+✅ Mostrar todos los contactos
+✅ Buscar por nombre
+✅ Modificar contacto existente
+✅ Eliminar contacto
+✅ Guardado automático en `data.json`
+
+---
+
+## Ejemplo de uso
+=============================
+    📞 AGENDA TELEFÓNICA
+=============================
+1. Agregar contacto
+2. Mostrar contactos
+3. Buscar contacto
+4. Modificar contacto
+5. Eliminar contacto
+6. Salir
+Seleccione una opción: 1
+Nombre: Juan Pérez
+Teléfono: 1134567890
+Email: juan@gmail.com
+✅ Contacto 'Juan Pérez' agregado correctamente.
+
+🧑‍💻 Autor
+
+Federico Martinez
+📍 Estudiante de Tecnicatura Universitaria en Programación
+💼 Proyecto para portafolio - Ejemplo de aplicación CRUD en Python
+🌐 GitHub
